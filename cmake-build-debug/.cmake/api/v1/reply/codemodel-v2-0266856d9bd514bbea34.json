@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled-Debug-ffb98a70be81bee4f58b.json",
+					"name" : "untitled",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/arthurmathis/Library/Mobile Documents/com~apple~CloudDocs/Licence/Licence MIAGE/Algorithmique r\u00e9cursive/Directory/cmake-build-debug",
+		"source" : "/Users/arthurmathis/Library/Mobile Documents/com~apple~CloudDocs/Licence/Licence MIAGE/Algorithmique r\u00e9cursive/Directory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
